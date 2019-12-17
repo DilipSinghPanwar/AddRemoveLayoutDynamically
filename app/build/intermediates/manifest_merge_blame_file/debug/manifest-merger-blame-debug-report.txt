@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.view" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="14"
+6-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:5:5-20:19
+10        android:allowBackup="true"
+10-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:6:9-35
+11        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+11-->[com.android.support:support-compat:28.0.0] C:\Users\Abc\.gradle\caches\transforms-2\files-2.1\ccf94a4f227dfa4f17156620e28a8b98\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+12        android:debuggable="true"
+13        android:icon="@drawable/ic_launcher"
+13-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:7:9-45
+14        android:label="@string/app_name"
+14-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:8:9-41
+15        android:testOnly="true"
+16        android:theme="@style/AppTheme" >
+16-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:9:9-40
+17        <activity
+17-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:10:9-19:20
+18            android:name="com.view.MainActivity"
+18-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:11:13-41
+19            android:label="@string/app_name" >
+19-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:12:13-45
+20            <intent-filter>
+20-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:13:13-18:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:14:17-69
+21-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:14:25-66
+22                <action android:name="android.intent.action.VIEW" />
+22-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:15:17-69
+22-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:17:17-77
+24-->C:\Users\Abc\AndroidStudioProjects\SampleWrkspc\RxWrkspc\AddRemoveLayoutDynamically\app\src\main\AndroidManifest.xml:17:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
